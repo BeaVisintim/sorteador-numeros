@@ -11,10 +11,8 @@
 </p>
 <h2>Resumo</h2>
 
-<h5>Neste projeto, estudei como utilizar JavaScript para programar uma página HTML. Estudei como declarar variáveis e a obter elementos da página para interagir com eles. Também explorei como acessar valores inseridos em formulários e convertê-los. Usei arrays para armazenar informações, estruturas de repetição como o <u>for</u>
- para gerar números aleatórios e instruções condicionais com if/else para controlar funcionalidades, como o botão de reiniciar.
-
-Com as classes CSS, aprendi a verificar, adicionar ou remover estilos utilizando o classList. Por fim, entendi como modificar o conteúdo HTML com innerHTML, tornando a página mais interativa e funcional</h5>
+<h4>Neste projeto, estudei como utilizar JavaScript para programar uma página HTML. Estudei como declarar variáveis e a obter elementos da página para interagir com eles. Também explorei como acessar valores inseridos em formulários e convertê-los. Usei <ins>arrays</ins> para armazenar informações, estruturas de repetição como o <ins>for</ins> para gerar números aleatórios e instruções condicionais como <ins>if/else</ins> para controlar funcionalidades, como o botão de reiniciar.
+Com CSS, estudei como verificar, adicionar ou remover estilos utilizando o <ins>classList</ins>. Por fim, entendi como modificar o conteúdo HTML com <ins>innerHTML</ins>, tornando a página mais interativa e funcional</h4>
 
 ## 👨‍💻Tecnologias
 <div>
